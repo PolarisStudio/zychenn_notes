@@ -4,7 +4,7 @@ This is the report dedicated on organizing all the codes I learn on the national
 
 ## Basic syntax
 
-The basic syntax are collected by myself [here](https://github.com/paradoxXD/paradoxical/blob/master/basic_markdown.md "the example deployed on github").  [This](https://github.com/paradoxXD/paradoxical/blob/master/basic_markdown.pdf) is the rendered pdf version.
+The basic syntax are **collected by myself** [here](https://github.com/paradoxXD/paradoxical/blob/master/basic_markdown.md "the example deployed on github").  [This](https://github.com/paradoxXD/paradoxical/blob/master/basic_markdown.pdf) is the rendered pdf version.
 
 The document is a aggregation for the basic syntax of markdown, retrieved from [Official website](https://www.markdownguide.org/basic-syntax/).
 
