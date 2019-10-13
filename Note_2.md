@@ -102,7 +102,7 @@ os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) # change t
   - it includes variable URL and default value is ""
 - @app.route('/opendir')
   - Open directory in user's computer
--  @app.route('/settings')
+- @app.route('/settings')
   - the setting page, which allows users to set their username.
 - @app.route('/temp/\<path:temppath>')
   - send the files to others, using `send_file`, in Flask.
